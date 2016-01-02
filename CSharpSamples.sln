@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-AddSubDivMulOfTwoNumber",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-AreaOfCircleTriangle", "3-AreaOfCircleTriangle\3-AreaOfCircleTriangle.csproj", "{7028F2E6-34AA-4858-94C2-7A9142AF49F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-SimpleInterest", "4-SimpleInterest\4-SimpleInterest.csproj", "{5BF75A64-BB7A-4283-AF78-15B36CBC2D6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7028F2E6-34AA-4858-94C2-7A9142AF49F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7028F2E6-34AA-4858-94C2-7A9142AF49F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7028F2E6-34AA-4858-94C2-7A9142AF49F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF75A64-BB7A-4283-AF78-15B36CBC2D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF75A64-BB7A-4283-AF78-15B36CBC2D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF75A64-BB7A-4283-AF78-15B36CBC2D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF75A64-BB7A-4283-AF78-15B36CBC2D6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

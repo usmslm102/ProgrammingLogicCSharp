@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 // Write a program to accept values of two numbers and print their addition,subtraction,multiplication,division
 namespace _2_AddSubDivMulOfTwoNumber
 {

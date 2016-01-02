@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //Write a program to print area of a circle and Triangle.
 namespace _3_AreaOfCircleTriangle
 {
